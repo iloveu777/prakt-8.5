@@ -5,3 +5,11 @@ C:\Users\Kab-35-6\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.exe
 C:\Users\Kab-35-6\source\repos\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
 C:\Users\Kab-35-6\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 C:\Users\Kab-35-6\source\repos\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb

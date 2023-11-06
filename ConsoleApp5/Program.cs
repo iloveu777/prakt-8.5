@@ -34,7 +34,7 @@ namespace ConsoleApp5
             WriteLine($"самое маленькое число - {min}");
             */
             //
-            
+            /*
             int Replace(ref int x, ref int y)
             {
 
@@ -53,6 +53,27 @@ namespace ConsoleApp5
             int rep1 = Replace(ref a, ref b);
             int rep2 = Replace(ref c, ref d);
             WriteLine($"1 число = {a}, 2 число = {b}, 3 число = {c}, 4 число = {d} "); 
+
+            */
+
+            void FillArray(int[] arr)
+            { 
+                Random random = new Random();
+                for (int i = 0; i < arr.Length; i++)
+                {
+                    arr[i] = random.Next(333);
+                }
+            }
+            void PrintArray(int[] arr)
+            {
+                for(int i = 0; i < arr.Length; i++)
+                {
+                    WriteLine(arr[i]);
+                }
+            }
+            int[] array = new int[10];
+            FillArray(array);
+            PrintArray(array);
             ReadKey();
             
         }
