@@ -1,0 +1,8 @@
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\zuxpl\Documents\GitHub\prakt-8.5\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
